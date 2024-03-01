@@ -1,6 +1,30 @@
-# NYC_Data_Analysis
+# Crime Analysis in New York City
 
+## Overview
 
-•	Leveraged data analysis and visualization techniques to gain insights into crime trends in New York City and inform data-driven decision-making for enhancing public safety measures.  
-•	Conducted data preprocessing and visualization using pandas, matplotlib and seaborn libraries on crime data from 2010-2021 for New York City. Derived insights from data analysis to inform decision-making and improve public safety measures. 
-![image](https://github.com/NidhiTheBerde/NYC_Data_Analysis/assets/20742657/a78e6fa4-1285-46d6-8067-afcf6d34f7d7)
+This project leverages data analysis and visualization techniques to gain insights into crime trends in New York City. By analyzing crime data from 2010 to 2021, we aim to inform data-driven decision-making processes for enhancing public safety measures.
+
+## Project Objectives
+
+- Utilize data preprocessing techniques to prepare the crime data for analysis.
+- Employ data visualization libraries such as pandas, matplotlib, and seaborn to visualize crime trends over time.
+- Derive insights from the data analysis to inform decision-making and improve public safety measures in New York City.
+
+## Key Features
+
+- Data preprocessing: Cleaning and preparing the crime dataset for analysis.
+- Data visualization: Utilizing pandas, matplotlib, and seaborn libraries to create insightful visualizations of crime trends.
+- Insights generation: Analyzing the visualized data to derive actionable insights for enhancing public safety measures.
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+![Data Cleaning][images/data_cleaning.jpeg)
+![images/crime_each_year.jpeg)
+![images/crime_level.jpeg)
+![images/crime_by_borough.jpeg)
+![images/top_20_crimes.jpeg)
