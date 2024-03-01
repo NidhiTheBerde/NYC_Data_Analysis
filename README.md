@@ -23,8 +23,12 @@ This project leverages data analysis and visualization techniques to gain insigh
 - Matplotlib
 - Seaborn
 
+## Techniques
+
+Data Extraction, Data Cleaning, Exploratory Data Analysis, Statistical Analysis, Visualizations
+
 ![Data Cleaning](/images/data_cleaning.jpeg)
 ![Crime Each Year](/images/crimes_each_year.jpeg)
 ![Crime Level](/images/crime_level.jpeg)
-![crimes By Borough](/images/crimes_by_borough.jpeg)
+![Crimes By Borough](/images/crimes_by_borough.jpeg)
 ![Top 20 Crimes](/images/top_20_crimes.jpeg)
