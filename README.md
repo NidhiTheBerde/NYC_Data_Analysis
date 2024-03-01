@@ -23,8 +23,8 @@ This project leverages data analysis and visualization techniques to gain insigh
 - Matplotlib
 - Seaborn
 
-![Data Cleaning][images/data_cleaning.jpeg)
-![images/crime_each_year.jpeg)
-![images/crime_level.jpeg)
-![images/crime_by_borough.jpeg)
-![images/top_20_crimes.jpeg)
+![Data Cleaning](/images/data_cleaning.jpeg)
+![Crime Each Year](/images/crime_each_year.jpeg)
+![Crime Level](/images/crime_level.jpeg)
+![crimes By Borough](/images/crime_by_borough.jpeg)
+![Top 20 Crimes](/images/top_20_crimes.jpeg)
